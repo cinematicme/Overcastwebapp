@@ -1,4 +1,6 @@
 # Overcastwebapp
 Wrapped Webapp for Overcast on macOS
 
-Made using Unite by BGZ & Webkit 2
+Made using Fluid
+
+- Status bar version no longer supported/provided. 
